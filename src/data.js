@@ -1,0 +1,22 @@
+let obj = [
+    {
+        name:"name",
+        age:10
+    },
+    {
+        name:"name",
+        age:10
+    },
+    {
+        name:"name",
+        age:10
+    },
+    {
+        name:"name",
+        age:10
+    },
+    {
+        name:"name",
+        age:10
+    },
+]
